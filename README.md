@@ -35,4 +35,7 @@ parameters: email
 parameters: first name, last name, email, password, team
 ```
   
-## TODO::added form to handle user details change
+##DEMO
+https://limitless-inlet-90838.herokuapp.com/accounts/
+
+### TODO::added form to handle user details change
